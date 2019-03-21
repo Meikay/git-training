@@ -18,3 +18,5 @@ follow second set of instructions to:
 
 
 refresh github page, and first commit should appear
+
+I'm about to have a merge conflict!
